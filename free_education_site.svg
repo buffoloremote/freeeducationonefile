@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      .bg { fill: #120e2e; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" class="bg" />
+  <foreignObject width="1200" height="800">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #f1f1f1; padding: 40px; box-sizing: border-box; background-color: #120e2e; height: 100%; overflow-y: auto;">
+      
+      <!-- Header -->
+      <div style="text-align: center; margin-bottom: 40px; border-bottom: 2px solid #7b2cbf; padding-bottom: 20px;">
+        <h1 style="color: #9d4edd; margin: 0; font-size: 3rem;">Free Education v2.2.1</h1>
+        <p style="font-style: italic; color: #c77dff; margin-top: 5px;">"Play free web games instantly – no downloads required."</p>
+      </div>
+
+      <!-- Main Layout -->
+      <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 30px;">
+        
+        <!-- Left Column: Updates & Games -->
+        <div>
+          <div style="background-color: #1a143d; padding: 25px; border-radius: 12px; margin-bottom: 30px; border-left: 5px solid #9d4edd;">
+            <h2 style="color: #e0aaff; margin-top: 0;">📌 System Updates & Status</h2>
+            <p style="font-size: 0.9rem; color: #b5e2fa;"><strong>Last Updated: 5/31/2026</strong> (Theme Color: Purple)</p>
+            <p style="line-height: 1.6; font-size: 0.95rem;">
+              Fixed high RAM memory crashes for Chromebook users on 4GB setups (Geometry Dash, Plague Inc, PVZ modes optimize usage successfully). 
+              Early access hint hidden somewhere inside one of the icons!
+            </p>
+          </div>
+
+          <div style="background-color: #1a143d; padding: 25px; border-radius: 12px;">
+            <h2 style="color: #e0aaff; margin-top: 0;">🎮 Game Additions & Fixes</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; font-size: 0.9rem;">
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">🟢 Cheese Chompers (Fixed)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">🟢 Sonic (Fixed)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">✨ Ice Age Baby (Added)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">✨ Friday Night Flashing (Added)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">✨ Bank Robbery 1 &amp; 2 (Added)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">✨ FNAF 3 &amp; 4 Ports (Added)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">🟢 Bowmasters (Fixed)</div>
+              <div style="background: #241b54; padding: 10px; border-radius: 6px;">✨ Cacao Language Translator</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column: Navigation & Tools -->
+        <div>
+          <div style="background-color: #1a143d; padding: 25px; border-radius: 12px; margin-bottom: 30px; text-align: center;">
+            <h2 style="color: #e0aaff; margin-top: 0;">🌐 Web Proxy</h2>
+            <div style="background: #7b2cbf; color: white; padding: 15px; border-radius: 8px; font-weight: bold; cursor: pointer; margin-bottom: 10px;">
+              Launch Proxy Browser
+            </div>
+            <p style="font-size: 0.8rem; color: #aaa; line-height: 1.4;">
+              Beta environment fully unblocked. First activation might require short initialization phase.
+            </p>
+          </div>
+
+          <div style="background-color: #1a143d; padding: 25px; border-radius: 12px;">
+            <h2 style="color: #e0aaff; margin-top: 0;">🧭 Impossible List</h2>
+            <ul style="padding-left: 20px; font-size: 0.9rem; line-height: 1.8; color: #ff85a1; margin-bottom: 0;">
+              <li>Clash Royale</li>
+              <li>Roblox</li>
+              <li>Fortnite</li>
+              <li>Call of Duty</li>
+              <li>Rocket League</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Footer / Controls -->
+      <div style="margin-top: 40px; text-align: center; font-size: 0.85rem; color: #777;">
+        <p>© Free Education. Static Single-File Application Package.</p>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
